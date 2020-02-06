@@ -1,0 +1,72 @@
+.header{
+	background-color:#EB593C;
+}
+
+.links{
+	text-align:right;
+	font-size:20px;
+	    padding: 0px 10px;
+		font-family:Calibri;
+}
+
+
+h1{
+border-bottom-style: solid;
+text-align: center;
+font-size:50px;
+font-family:Calibri;
+}
+h2{
+text-decoration:underline;
+}
+.Aboutme{
+	font-size:20px;
+}
+.nateImage{
+float:right;
+}
+
+
+
+.Table tr:nth-child(odd){
+	background: #0099ff;
+}
+
+	  
+.Favorites{
+	font-size:20px;
+	clear:both;
+		  text-align: left;
+	margin-left:auto;
+	margin-right:auto;
+		  float:left;
+}
+
+.tv{
+	font-size:20px;
+	text-align: right;
+	margin-left:auto;
+	margin-right:auto;
+	float:right;
+}
+
+span{
+font-weight:bold;
+color:red;
+}
+a:hover{
+		  
+  color: #FF00FF;
+}
+.Quote{font-family:Calibri;}
+table,tr,th{
+padding: 10px;
+border: 2px solid black; 
+border-collapse: collapse;
+}
+.Table{
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	
+}

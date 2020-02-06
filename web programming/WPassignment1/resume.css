@@ -1,0 +1,28 @@
+.header{
+	
+}
+
+.titleName{
+		font-size:30px;
+	 color:#0066cc;
+}
+h1{
+	font-size:50px;
+	
+	font-family:Calibri;
+}
+h2{border-bottom-style: dotted;
+	font-family:Calibri;
+}
+p{font-family:Calibri;}
+li{font-family:Calibri;}
+
+.date{
+color:#0066cc;
+}
+.list{column-gap:normal;	
+column-count:3;
+
+	 
+ 
+}
