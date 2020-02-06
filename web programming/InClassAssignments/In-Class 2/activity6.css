@@ -1,0 +1,16 @@
+body{background: Chocolate;}
+h1.Artists{text-size: 14; font-family:Arial; font-weight: bold; color :Moccasin;
+}
+h2.SongTitle{
+text-size: 14; font-family:Arial; color :Khaki;
+}
+p.Album{text-size: 12; font-family:Arial; color :Khaki;}
+p.Year{
+text-size: 12; font-family:Arial;font-weight: bold; color :Ivory;
+}
+
+p.Verse{
+text-size: 14; font-family: Trebuchet MS; font-weight: bold; color :gold; margin-left:2cm;margin-right:2cm;
+}
+p.Chorus{text-size: 14; font-family: Trebuchet MS; font-weight: bold; color :gold; margin-left:4cm;margin-right:4cm;
+}
